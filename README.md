@@ -7,6 +7,8 @@
 [![R](https://img.shields.io/badge/-RStudio-00599C?style=flat&logo=r&link=https://github.com/henry090)](https://github.com/henry090)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/henry090)](https://github.com/henry090)
 [![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c++&link=https://github.com/henry090)](https://github.com/henry090) <br>
+[![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat&logo=Pytorch&link=https://github.com/henry090)](https://github.com/henry090) 
+[![fastai](https://img.shields.io/badge/-fastai-darkred?style=flat&logo=fastai&link=https://github.com/henry090)](https://github.com/henry090) <br>
 [![Keras](https://img.shields.io/badge/-Keras-darkred?style=flat&logo=keras&link=https://github.com/henry090)](https://github.com/henry090) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/henry090)](https://github.com/henry090)
 [![H2O](https://img.shields.io/badge/-H2O-yellow?style=flat&logo=h2o&link=https://github.com/henry090)](https://github.com/henry090) <br>
